@@ -1,3 +1,7 @@
+✋ 안녕하세요 저는 천재개발자(가 되기위해 노력하는) 박권순입니다.
+
+
+
 Hi I'm <b>Kwonsoon Park.</b>
 
 - 👀 I’m interested in ...
