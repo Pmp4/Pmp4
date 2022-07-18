@@ -4,7 +4,7 @@ Hi I'm <b>Kwonsoon Park.</b>
 ### 나의 사용기술
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?labelColor=c9b51e&style=for-the-badge&logo=javascript&logoColor=000000)<br/>
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?labelColor=c9b51e&style=for-the-badge&logo=javascript&logoColor=000000)
 ![REACT](https://img.shields.io/badge/REACT-222222?style=for-the-badge&logo=REACT&logoColor=61DAFB)
 ![SCSS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
