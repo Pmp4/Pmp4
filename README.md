@@ -19,11 +19,11 @@ Hi I'm <b>Kwonsoon Park.</b>
 <!---![SPRING](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white)--->
 
 
-<img alt="HTML" src ="https://img.shields.io/badge/HTML5.svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+<!---<img alt="HTML" src ="https://img.shields.io/badge/HTML5.svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
 <img alt="HTML" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
 <img alt="HTML" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
 <img alt="HTML" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
-<img alt="HTML" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
+<img alt="HTML" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>--->
 
 
 <!---
