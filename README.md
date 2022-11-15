@@ -12,7 +12,6 @@ Hi I'm <b>Kwonsoon Park.</b>
 
 ![JAVA](https://img.shields.io/badge/JAVA-FC9815?style=for-the-badge&logo=JAVA&logoColor=white)
 ![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=white)
-![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MYBATIS](https://img.shields.io/badge/MYBATIS-D20505?style=for-the-badge&logo=MYBATIS&logoColor=white)
 
 
